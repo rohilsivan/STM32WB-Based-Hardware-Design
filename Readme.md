@@ -105,7 +105,7 @@ The complete schematic of the STM32WB55 board is shown below:
 ## 9. ERC Results
 The KiCad Electrical Rules Checker (ERC) results for the schematic are shown below:
 
-![ERC Results](results.png)  
+![ERC Results](results.jpeg)  
 *Figure 2 – ERC output.*
 
 ---
